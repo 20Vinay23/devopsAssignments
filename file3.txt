@@ -1,6 +1,7 @@
 This is the file for the assignment purpose.
 This will contain the names of the cars.
 Tata Curve
+Tata Nano
 Tata Nexon
 Hyundai creta
 Hyundai i10
