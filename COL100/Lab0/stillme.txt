@@ -1,0 +1,6 @@
+This is an assignment file. It will store data of guns
+M416
+Scal L
+AKM
+Barrel
+AWM
