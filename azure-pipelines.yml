@@ -1,0 +1,9 @@
+trigger: none
+
+pool:
+  name: 'Azure Pipelines'
+
+steps:
+- script: echo "Self-hosted agent is working!"
+  displayName: 'Test Self-Hosted Agent'
+
